@@ -80,7 +80,7 @@
 		"en"				"snowballs in main area"
 		"it"				"le palle di neve nell' area principale"
 		"ru"				"снежки"
-		"ko"				"메인 구역에서 눈 던지기. *오역/오타 신고: RetroTV (구닥다리TV)"
+		"ko"				"메인 구역에서 눈 던지기.
 	}
 	"TARGET"
 	{
@@ -112,7 +112,7 @@
 		"en"				"{1}TF2WARE v.{2} {3}by {4} TonyBaretta"
 		"it"				"{1}TF2WARE v.{2} {3}Creato da {4} TonyBaretta"
 		"ru"				"{1}TF2WARE v.{2} {3}от {4} TonyBaretta"
-		"ko"				"{1}TF2WARE v.{2} {3}by {4} TonyBaretta"
+		"ko"				"{1}TF2WARE v.{2} {3}by {4} TonyBaretta {red}* 오역/오타 신고: {green}RetroTV (구닥다리TV)"
 	}
 	"NOTIFY_DRAW_NEWBOSS"
 	{
