@@ -1073,7 +1073,7 @@
 		"en"				"Hit the passtimeball until it breaks!"
 		"it"				"Colpisci la passtimeball finchè non si rompe!"
 		"ru"				"Бей мяч, пока он не сломается!"
-		"ko"				"부서질 때 까지, 타임패스볼을 두드리세요"
+		"ko"				"부서질 때 까지 타임패스볼을 두드리세요"
 	}
 	"INSTRUCTION_58_1"
 	{
