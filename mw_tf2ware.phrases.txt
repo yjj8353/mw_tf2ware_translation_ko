@@ -793,7 +793,7 @@
 		"en"				"Survive the medics!"
 		"it"				"Sopravvivi ai medici!"
 		"ru"				"Переживи медиков!"
-		"ko"				"메딕을 살리세요!"
+		"ko"				"메딕으로부터 살아남으세요!"
 	}
 	"INSTRUCTION_25_3"
 	{
@@ -1101,49 +1101,49 @@
 		"en"				"Pickup: SANDVICH and eat it!"
 		"it"				"Prendi il: SANDVICH e mangialo!"
 		"ru"				"Пикап: SANDVICH и съесть его!!"
-		"ko"				"줍기: 샌드비치 그리고 먹으세요!"
+		"ko"				"줍기: 샌드비치, 그리고 먹으세요!"
 	}
 	"INSTRUCTION_61_2"
 	{
 		"en"				"Pickup: FESTIVE SANDVICH and eat it!"
 		"it"				"Prendi il: SANDVICH FESTIVO e mangialo!"
 		"ru"				"Пикап: SANDVICH FESTIVE и съесть его!!"
-		"ko"				"줍기: 축제장식 샌드비치 그리고 먹으세요!"
+		"ko"				"줍기: 축제장식 샌드비치, 그리고 먹으세요!"
 	}
 	"INSTRUCTION_61_3"
 	{
 		"en"				"Pickup: ROBO-SANDVICH and eat it!"
 		"it"				"Prendi il: ROBO-SANDVICH e mangialo!"
 		"ru"				"Пикап: ROBO-SANDVICH и съесть его!!"
-		"ko"				"줍기: 로봇 샌드비치 그리고 먹으세요!"
+		"ko"				"줍기: 로봇 샌드비치, 그리고 먹으세요!"
 	}
 	"INSTRUCTION_61_4"
 	{
 		"en"				"Pickup: BANANA!"
 		"it"				"Prendi la: BANANA!"
 		"ru"				"Пикап: БАНАН и съесть его!!"
-		"ko"				"줍기: 바나나 그리고 먹으세요!"
+		"ko"				"줍기: 바나나, 그리고 먹으세요!"
 	}
 	"INSTRUCTION_61_5"
 	{
 		"en"				"Pickup: STEAK and eat it!"
 		"it"				"Prendi la: BISTECCA e mangiala"
 		"ru"				"Пикап: STEAK и съесть его!!"
-		"ko"				"줍기: 스테이크 그리고 먹으세요!"
+		"ko"				"줍기: 스테이크, 그리고 먹으세요!"
 	}
 	"INSTRUCTION_61_6"
 	{
 		"en"				"Pickup: CHOCOLATE BAR and eat it!"
 		"it"				"Prendi la: BARRETTA DI CIOCCOLATO e mangiala!"
 		"ru"				"Пикап: ШОКОЛАДНЫЙ БАР и съесть его!!"
-		"ko"				"줍기: 달로코스 바 그리고 먹으세요!"
+		"ko"				"줍기: 달로코스 바, 그리고 먹으세요!"
 	}
 	"INSTRUCTION_61_7"
 	{
 		"en"				"Pickup: FISHCAKE and eat it!"
 		"it"				"Prendi la: TORTA DI PESCE e mangiala!"
 		"ru"				"Пикап: FISHCAKE и съесть его!"
-		"ko"				"줍기: 어육완자 그리고 먹으세요!"
+		"ko"				"줍기: 어육완자, 그리고 먹으세요!"
 	}
 	"INSTRUCTION_62_1"
 	{
